@@ -114,8 +114,8 @@ Sou um desenvolvedor em constante evolução, sempre buscando aprender e aplicar
 ##
 ### 🧿 Git Stats 
 <div align="center"> 
-  <img align="left" width="49%" height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kaio-pinheiro&background=000&border_color=A855F7&layout=compact&theme=aura&"/>
-  <img  width="49% height="170px src="https://streak-stats.demolab.com/?user=Kaio-pinheiro&theme=aura&background=000&border=A855F7&dates=FFF)](https://git.io/streak-stats)"/>
+  <img align="left" width="49%" height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kaio-pinheiro&background=000&border_color=A855F7&layout=compact&theme=aura&"/>
+  <img  width="49% height="150px src="https://streak-stats.demolab.com/?user=Kaio-pinheiro&theme=aura&background=000&border=A855F7&dates=FFF)](https://git.io/streak-stats)"/>
 </div>
 
 
