@@ -114,8 +114,10 @@ Sou um desenvolvedor em constante evolução, sempre buscando aprender e aplicar
 ##
 ### 🧿 Git Stats &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;    🧿 Visitas
 <div align="center"> 
-  <img align="left" width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-pinheiro&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117"/>
+  <img align="left" width="49%" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kaio-pinheiro&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </div>
+
+
 
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Kaio-pinheiro/count.svg" /></p>
