@@ -115,11 +115,11 @@ Sou um desenvolvedor em constante evolução, sempre buscando aprender e aplicar
 
 <h1 align="center">🧿 Git Stats</h1> 
 <div align="center"> 
-  <img width="49%" height="190px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kaio-pinheiro&background=000&border_color=A855F7&layout=compact&theme=aura&"/>
+  <img width="49%" height="185px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kaio-pinheiro&background=000&border_color=A855F7&layout=compact&theme=aura&"/>
 </div>
 
 <div align="center">
-  <img width="60%" height="240px" src="https://streak-stats.demolab.com/?user=Kaio-pinheiro&theme=aura&background=000&border=A855F7&dates=FFF"/>
+  <img width="75%" height="240px" src="https://streak-stats.demolab.com/?user=Kaio-pinheiro&theme=aura&background=000&border=A855F7&dates=FFF"/>
 </div>
 
 
