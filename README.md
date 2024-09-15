@@ -119,7 +119,7 @@ Sou um desenvolvedor em constante evolução, sempre buscando aprender e aplicar
 </div>
 
 <div align="center">
-  <img width="75%" height="240px" src="https://streak-stats.demolab.com/?user=Kaio-pinheiro&theme=aura&background=000&border=A855F7&dates=FFF"/>
+  <img width="70%" height="240px" src="https://streak-stats.demolab.com/?user=Kaio-pinheiro&theme=aura&background=000&border=A855F7&dates=FFF"/>
 </div>
 
 
