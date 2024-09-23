@@ -52,9 +52,9 @@ Sou um desenvolvedor em constante evolução, sempre buscando aprender e aplicar
 
 ##
 ### 🛠 Projetos em destaque:
-- [Sistema de Agendamento de Barbearia](https://barbearia-do-homem.web.app/) – Sistema de agendamento de horários integrado ao WhatsApp(Está simples e sem tratamento de exceções).
--
--
+- [Sistema de Agendamento de Barbearia](https://barbearia-do-homem.web.app/) – Sistema de agendamento de horários integrado ao WhatsApp (Está simples e sem tratamento de exceções).
+- Em breve
+- Em breve
 
 
   
