@@ -47,7 +47,7 @@ Sou um desenvolvedor em constante evolução, sempre buscando aprender e aplicar
 
 ##
 ### 📚 Idiomas
-- Inglês Nível A2 do CEFR
+- Inglês Nível Intermediário
 - Português Brasil
 
 ##
