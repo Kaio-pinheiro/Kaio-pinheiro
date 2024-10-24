@@ -37,11 +37,11 @@ Sou um desenvolvedor em constante evolução, sempre buscando aprender e aplicar
 
 ##
 ### 👾 Soft Skills
+- Resolução de problemas
 - Aprendizado rápido
 - Proatividade
 - Comunicação eficaz
 - Trabalho em equipe
-- Resolução de problemas
 - Comprometimento
 - Flexibilidade 
 
