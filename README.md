@@ -4,7 +4,7 @@ Sou um desenvolvedor em constante evolução, sempre buscando aprender e aplicar
 
 👩‍💻 Focado em:
 - Atualmente me especializando em **Java** e explorando o **front-end**.
-- Desenvolvendo soluções **back-end** com **Java**, **MySQL** e **Spring** para sistemas web e desktop.
+- Desenvolvendo soluções **back-end** com **Java**, **MySQL** e **Spring** para sistemas web e desktop..
 
 
 🎓 Cursando:<br/>
